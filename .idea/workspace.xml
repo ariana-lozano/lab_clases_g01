@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03e17c71-027d-456d-b167-6021e0c1cbe0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Clases.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_01/test 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_02/test 9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_03/test 9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesión_04/test 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
